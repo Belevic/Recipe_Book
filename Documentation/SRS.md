@@ -75,6 +75,10 @@
 
 ![Окно для просмотра сохраненных рецептов](../Documentation/Mockups/Recipes_list.png) 
 
+Окно для просмотра и добавления новых ингредиентов.
+
+![Окно для просмотра и добавления новых ингредиентов](../Documentation/Mockups/Item_list.png) 
+
 <a name ="user_characteristics"><a/>
 
 ## 2.3 Характеристики пользователя
