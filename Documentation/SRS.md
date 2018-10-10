@@ -8,7 +8,6 @@
 1.2.1 [Исходные данные](#first_info)<br>
 1.2.2 [Возможности бизнеса](#bisuness_opportunities)<br>
 1.2.3 [Границы проекта](#project_line)<br>
-1.3 [Аналоги](#analogues)  
 2 [Требования пользователя](#user_requirenments)<br>
 2.1 [Программные интерфейсы](#program_interfaces)<br>
 2.2 [Интерфейсы пользователя](#user_interfaces)<br>
