@@ -73,7 +73,7 @@
 
 Окно для просмотра сохраненных рецептов.
 
-![Окно для просмотра сохраненных рецептов](../Documentation/Mockups/Recipes_list.PNG) 
+![Окно для просмотра сохраненных рецептов](../Documentation/Mockups/Recipes_list.png) 
 
 <a name ="user_characteristics"><a/>
 
