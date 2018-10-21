@@ -2,7 +2,7 @@
 ---
 ## Составление рецепта
 
-![Create_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Diagrams/Activity/CreateRecipe.png)
+![Create_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Diagrams/Activity/CreatingRecipe.png)
 
 
 ## Добавление ингредиента
@@ -17,4 +17,4 @@
 
 ## Редактирование рецепта
 
-![Change_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Diagrams/Activity/ChangeRecipe.png)
+![Change_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Diagrams/Activity/ChangingRecipe.png)
