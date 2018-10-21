@@ -1,7 +1,7 @@
 # Диаграмма прецедентов
 ---
 
-![Диаграмма прецедентов](../Documentation/Mockups/Recipe_list.png) 
+![Use Case](https://github.com/Belevic/Recipe_Book/edit/master/Documentation/Mockups/UseCase.png)
 
 
 # Содержание
