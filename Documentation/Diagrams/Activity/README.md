@@ -2,4 +2,4 @@
 ---
 ## Составление рецепта
 
-![Create_recipe](https://github.com/Belevic/Recipe_Book/edit/master/Documentation/Diagrams/Activity/Create_recipe.png)
+![Create_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Diagrams/Activity/Create_recipe.png)
