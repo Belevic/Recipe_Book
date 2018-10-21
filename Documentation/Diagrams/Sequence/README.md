@@ -7,12 +7,12 @@
 
 ## Добавление ингредиента
 
-![Add_ingredient](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Diagrams/Secuence/AddIngredientSec.png)
+![Add_ingredient](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Diagrams/Secuence/AddProductSec.png)
 
 
 ## Просмотр рецепта
 
-![Check_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Diagrams/Sequence/CheckRecipeSec.png)
+![Check_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Diagrams/Sequence/ChekRecipeSec.png)
 
 
 ## Редактирование рецепта
