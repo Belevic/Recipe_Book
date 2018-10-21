@@ -1,7 +1,7 @@
 # Диаграмма прецедентов
 ---
 
-![Диаграмма прецедентов](../Documentation/Diagrams/UseCase/UseCaseDiagram.png) 
+![Диаграмма прецедентов](../Documentation/Mockups/UseCase.png) 
 
 
 # Содержание
