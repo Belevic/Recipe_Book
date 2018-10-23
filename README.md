@@ -5,3 +5,4 @@
 
 # Содержание
 1 [Документация](Documentation)  
+2 [Диаграммы](Documentation/Diagrams)  
