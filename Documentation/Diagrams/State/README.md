@@ -17,5 +17,5 @@
 
 ## Редактирование рецепта
 
-![Change_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state3.png)
+![Change_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state4.png)
 
