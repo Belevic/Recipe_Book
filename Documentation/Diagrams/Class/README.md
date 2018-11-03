@@ -1,4 +1,4 @@
 # Диаграмма классов
 ---
 
-![Диаграмма классов](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/Main2.png) 
+![Диаграмма классов](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/Main3.png) 
