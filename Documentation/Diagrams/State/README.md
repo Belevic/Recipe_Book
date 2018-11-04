@@ -2,7 +2,7 @@
 ---
 ## Составление рецепта
 
-![Create_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state1_1.png)
+![Create_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state_New_Recipe.png)
 
 
 ## Просмотр рецепта
