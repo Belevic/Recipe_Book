@@ -7,7 +7,7 @@
 
 ## Добавление нового ингредиента
 
-![Check_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state_New_Item.png)
+![Check_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state_Create_Item.png)
 
 
 ## Просмотр рецепта
