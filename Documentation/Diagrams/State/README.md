@@ -2,7 +2,7 @@
 ---
 ## Добавление нового рецепта
 
-![Create_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state_Creating_Recipe.png)
+![Create_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state_Creatin_Recipe.png)
 
 
 ## Добавление нового ингредиента
