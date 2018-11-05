@@ -2,7 +2,7 @@
 ---
 ## Добавление нового рецепта
 
-![Create_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state_New_Recipe.png)
+![Create_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state_Create_Recipe.png)
 
 
 ## Добавление нового ингредиента
@@ -12,10 +12,10 @@
 
 ## Просмотр рецепта
 
-![Check_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state_Check_Recipe.png)
+![Check_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state_Show_Recipe.png)
 
 
 ## Редактирование рецепта
 
-![Change_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state_Change_Recipe.png)
+![Change_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state_Chang_Recipe.png)
 
