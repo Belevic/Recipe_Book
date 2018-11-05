@@ -1,8 +1,13 @@
 # Диаграммы состояния
 ---
-## Составление рецепта
+## Добавление нового рецепта
 
 ![Create_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state_New_Recipe.png)
+
+
+## Добавление нового ингредиента
+
+![Check_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state_New_Item.png)
 
 
 ## Просмотр рецепта
