@@ -12,7 +12,7 @@
 
 ## Просмотр рецепта
 
-![Check_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state_Showing_Recipe.png)
+![Check_recipe](https://github.com/Belevic/Recipe_Book/blob/master/Documentation/Mockups/state_Showing_recipe.png)
 
 
 ## Редактирование рецепта
