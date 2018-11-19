@@ -12,7 +12,7 @@ namespace RecipeBook.Domain
         public string Name { get; set; }
         [XmlIgnore]
         public IRecipeBook RecipeBook { get; set; }
-        private Guid id = Guid.Empty;
+        private  Guid id = Guid.Empty;
 
         public override bool Equals(object obj)
         {
