@@ -34,6 +34,7 @@ namespace RecipeBook.Gui
             {
                 ItemNameTextBox.Text = string.Empty;
                 ItemCategoryDropDown.SelectedIndex = -1;
+                
             }
             else
             {
@@ -43,7 +44,8 @@ namespace RecipeBook.Gui
             this.item = creatingItem;
             if (this.ShowSaveAsEditWhenReadOnly)
             {
-                this.ReadOnly = true;
+                this.ReadOnly=true;
+                
             }
         }
 
@@ -54,6 +56,7 @@ namespace RecipeBook.Gui
             if (string.IsNullOrEmpty(name))
             {
                 errorMessages.Add("Please enter valid item name!");
+                
             }
             var category = this.ItemCategoryDropDown.SelectedIndex < 0 ? null
                 : (Category?)((DisplayPointer<Category>)this.ItemCategoryDropDown.SelectedItem).Item;
@@ -66,9 +69,9 @@ namespace RecipeBook.Gui
                 item = null;
                 return false;
             }
-            item = this.item == null ? (this.item = new Ingredient() { Id = Guid.NewGuid() }) : this.item;
+            item= this.item==null ? (this.item = new Ingredient() { Id = Guid.NewGuid() }) : this.item;
             item.Name = name;
-            item.Category = category.Value;
+            item.Category= category.Value;
             return true;
         }
 
@@ -89,13 +92,14 @@ namespace RecipeBook.Gui
                 else
                 {
                     this.RaiseSaveButtonClicked(this);
+                    
                 }
             };
-            this.cancelButton.Click += (o, e) =>
+            this.cancelButton.Click+= (o, e) =>
             {
                 if (this.ShowSaveAsEditWhenReadOnly)
                 {
-                    this.ReadOnly = true;
+                    this.ReadOnly =true;
                     this.SetItem(this.item);
                 }
                 else
