@@ -16,23 +16,25 @@ namespace RecipeBook.Gui
         public override void SetBookObject(Recipe bookObject)
         {
             this.SetRecipe(recipe);
+            
         }
 
         public override bool TryGetBookObject(out Recipe bookObject, out IList<string> errorMessages)
         {
             return this.TryGetRecipe(out bookObject, out errorMessages);
+            
         }
 
         public EditRecipe()
         {
 
             Initialize();
-            if (RecipeBooks.Current != null)
+            if (RecipeBooks.Current!= null)
             {
                 ComboBoxOfItemName.Items.AddRange(RecipeBooks.Current.IngredientsList.Select(itemChoosed => itemChoosed.Name).OrderBy(index => index).ToArray());
                 ComboBoxOfItemName.AddAutoComplete(o => o.ToString());
             }
-            ComboBoxOfItemName.SelectedIndexChanged += (o, e) =>
+            ComboBoxOfItemName.SelectedIndexChanged+= (o, e) =>
             {
                 if (ComboBoxOfItemName.SelectedIndex >= 0)
                 {
@@ -40,20 +42,22 @@ namespace RecipeBook.Gui
                     if (tempItem == null)
                     {
                         return;
+                        
                     }
                 }
             };
             ComboBoxOfAmount.Items.AddRange(AmountNumbers.DefaultNumbers.Cast<object>().ToArray());
             ComboBoxOfAmount.SelectedIndex = AmountNumbers.DefaultNumbers.IndexWhere(o => o.Equals(1));
-            ComboBoxOfAmount.Click += (o, e) =>
+            ComboBoxOfAmount.Click+= (o, e) =>
             {
                 var NewItemName = ComboBoxOfItemName.Text;
                 var item = RecipeBooks.Current.IngredientsList.FirstOrDefault(indexStr => string.Compare(indexStr.Name, NewItemName, ignoreCase: true) == 0);
-                if (item == null)
+                if (item== null)
                 {
                     if (string.IsNullOrWhiteSpace(NewItemName))
                     {
                         MessageBox.Show("No item selected!");
+                        
                     }
                     else
                     {
